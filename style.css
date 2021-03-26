@@ -1,0 +1,45 @@
+@font-face {
+    font-family: apoc;
+    src: url("ApocTrial-Revelations (1).woff2") ;
+}
+
+@font-face {
+    font-family: neuehassgrotesk;
+    src: url("NHaasGroteskTXPro-65Md.otf") ;
+}
+body{
+margin-top: 3rem;;
+background-color: black;
+}
+
+#butt{
+    border: solid 2px;
+    background: none;
+    font-size: 3rem;
+    font-family: neuehassgrotesk;
+    margin-left: 42%;
+    color: white;
+    
+}
+
+#butt:hover {
+    background-color: white;
+    color: black;
+}
+
+.text{
+    font-family: apoc;
+    font-size: 11rem;
+    text-align: center;
+    position: relative;  
+    text-transform: uppercase;
+    margin-top: 2rem;
+    color: white;
+}
+
+
+
+
+
+
+
